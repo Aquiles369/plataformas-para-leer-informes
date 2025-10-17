@@ -26,7 +26,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJoNDR3c2ViZm54c3dvbnpuNWMwOXp0eWJ5eWV0b3M1bDR6NWY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3zSkxzR51JN3sQxme/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJoNDR3c2ViZm54c3dvbnpuNWMwOXp0eWJ5eWV0b3M1bDR6NWY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3zSkxzR51JN3sQxme/giphy.gif" width = 85px>  </picture> Problema que resuelve<br><br>
 **Muchos hunters nuevos no saben dónde encontrar reportes reales ni cómo se ve un informe profesional. Esta sección resuelve ese problema reuniendo todas las fuentes clave en un solo lugar, evitando que pierdas horas buscando por tu cuenta.**
 <br><br>
 
@@ -50,7 +50,7 @@ Una colección curada de las mejores fuentes para leer informes de bug bounty, d
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVtbG50emZnenVtMGIwaTZ5eGs0dXdyb2RnYzNkbWdtY3Y0ZjVhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Id6Hbkm00kVl12HhcL/giphy.gif" width = 80px>  </picture> Plataformas para informes <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMzb2Y0amtxeng5Z3lxcTZ0MDE1eWtvbncyYnlzcGNyYnQ3NWUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s68DFdTIJTo50USDQn/giphy.gif" width = 80px>  </picture> Plataformas para informes <br><br>
 
 
 
