@@ -11,11 +11,11 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY2NmZjcjA4djZ6dW1qY3h3cDZveHd0ZHdnd201ZDRxaWdsZjhyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VeN4gbOONJsYQI7EgS/giphy.gif" width = 75px>  </picture> Plataformas para leer informes
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B0ZHZsb2dqNnVqajd5aWxzMDBndHAyN3Rnc3B6N2N1ejNsOTNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CghWwVJrhgivOrDP2j/giphy.gif" width = 75px>  </picture> Plataformas para leer informes
 
 <br>
 
- **Colección completa de plantillas de informes profesionales y ejemplos reales para reportar vulnerabilidades con claridad, impacto y formato óptimo. Incluye guías visuales, estructuras en Markdown, referencias técnicas y datos sobre pagos y plataformas.** 
+ **Un arsenal de fuentes donde podés leer informes reales de bug bounty, aprender cómo los cazadores estructuran sus reportes, descubrir nuevas técnicas, inspirarte para tus propias cadenas de explotación y mejorar exponencialmente la calidad de tus informes.** 
 <br><br> 
 
 <p align="center">
@@ -26,23 +26,24 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3cHI1cXZ1NHBmd3RuMnBiankxajFvYjhmc2dwZHF2ajJpcW5mdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FU3TB7lEiflMR4hpfk/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
-**Elimina la incertidumbre y la falta de estandarización al redactar reportes. Facilita crear informes sólidos y convincentes que aumentan las probabilidades de aceptación, clasificación correcta y recompensas más altas..**
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJoNDR3c2ViZm54c3dvbnpuNWMwOXp0eWJ5eWV0b3M1bDR6NWY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3zSkxzR51JN3sQxme/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+**Muchos hunters nuevos no saben dónde encontrar reportes reales ni cómo se ve un informe profesional. Esta sección resuelve ese problema reuniendo todas las fuentes clave en un solo lugar, evitando que pierdas horas buscando por tu cuenta.**
 <br><br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NsMDZlMjJsZGVjMGNnMmFzZGo1ajcwbDhnYTQ0czhnM25jb3M4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ePtsqGjgZFj0VPkFyT/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• Proporciona estructuras listas para usar y adaptables a cualquier programa.<br><br>
-• Mejora la claridad técnica y la presentación profesional de tus hallazgos.<br><br>
-• Aumenta la tasa de éxito en reportes al destacar impacto y reproducibilidad.<br><br>
-• Incluye ejemplos visuales y guías de CVSS para fortalecer la argumentación.** <br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM0djlqemplbDdmeW5jNHlicGRseTRvaXZvcHc2bDVlcHFob3VybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6X1MJobsLdHcX14PH/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+**• Acceso a cientos de informes reales para estudiar técnicas y cadenas.<br><br>
+• Inspira ideas para tus propias pruebas.<br><br>
+• Mejora drásticamente tu forma de redactar reportes.<br><br>
+• Permite analizar vulnerabilidades por tipo (XSS, SSRF, IDOR, etc.) con ejemplos concretos.<br><br>
+• Ayuda a entender qué impacto esperan las plataformas y cómo califican severidades.** <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJnMzRwdWlvM204YnZ1a2pubHV1cWk4cmI5bGxvYjZ0MXh2aGloeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0wlyukijlvIm4CzHZF/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1rcGliMmkwb2FtaWNzdGhxZW9qazR3OHAybm83dzdqaTI0dDhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mlukz0qzut5MlTtL41/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-Tu kit definitivo para crear informes de vulnerabilidades claros, completos y efectivos que maximizan recompensas.<br><br>
+Una colección curada de las mejores fuentes para leer informes de bug bounty, desde Medium hasta repositorios en GitHub, pasando por bases públicas como HackerOne, Google o pentester.land.<br><br>
 
 
 
@@ -81,7 +82,7 @@ Tu kit definitivo para crear informes de vulnerabilidades claros, completos y ef
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Un buen bug impresiona… pero un gran informe paga.”
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Quien estudia los informes del pasado, descubre los bugs del futuro.”
 <br>
 
 
