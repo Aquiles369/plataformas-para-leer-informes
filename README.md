@@ -15,7 +15,7 @@
 
 <br>
 
- **Un arsenal de fuentes donde podés leer informes reales de bug bounty, aprender cómo los cazadores estructuran sus reportes, descubrir nuevas técnicas, inspirarte para tus propias cadenas de explotación y mejorar exponencialmente la calidad de tus informes,<a href="https://youtu.be/uhrehZScmsw" target="_blank" rel="noopener">demo Youtube</a>** 
+ **Un arsenal de fuentes donde podés leer informes reales de bug bounty, aprender cómo los cazadores estructuran sus reportes, descubrir nuevas técnicas, inspirarte para tus propias cadenas de explotación y mejorar exponencialmente la calidad de tus informes,<a href="https://youtu.be/wr8m4zIcLZ8" target="_blank" rel="noopener">demo Youtube</a>** 
 <br><br> 
 
 <p align="center">
