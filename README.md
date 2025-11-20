@@ -70,6 +70,9 @@ Una colección curada de las mejores fuentes para leer informes de bug bounty, d
 
 • <a href="https://github.com/rix4uni/medium-writeups" target="_blank" rel="noopener">Repo de github que actualiza constantemente sorbe informes relacionados con bug bounty muy bueno filtrar con contorl + f y buscar la vuln que te interesa</a>
 
+
+• <a href="https://github.com/thexnumb/thexwriteup" target="_blank" rel="noopener">Otro Repo de github  mas ordenado que el anterior que actualiza constantemente sorbe informes relacionados con bug bounty muy bueno filtrar con contorl + f y buscar la vuln que te interesa</a>
+
 • <a href="https://www.reddit.com/r/bugbounty/" target="_blank" rel="noopener">reddit interesante</a>
 
 • <a href="https://pentester.land/writeups/" target="_blank" rel="noopener">pentester.land muy bueno cantidad riducla de informes</a>
